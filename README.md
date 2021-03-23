@@ -1,6 +1,6 @@
 # Flipper Zero 3D models
 
-# Current Body Version: B4C4
+# Current Body Version: B7C4
 
 Welcome to [Flipper Zero](https://flipperzero.one/)'s 3D models repo! Here you can find models of Flipper's body in stl, stp and pdf formats for using in modules development, cases designs or just for fun. 
 
@@ -10,4 +10,10 @@ These 3D models <font color="red">will change</font>, please do not use them as 
 
 ![](/img/models-readme-header.png)
 
+# Flipper Zero body drawing
+
 ![](/img/drawing_example.png)
+
+# External Module drawings
+
+![](/img/external-module-drawing.png)
