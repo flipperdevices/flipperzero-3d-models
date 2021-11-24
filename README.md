@@ -1,19 +1,33 @@
-# Flipper Zero 3D models
+# [Flipper Zero](https://flipperzero.one/) 3D models
 
-# Current Body Version: B7C4
+This repo contains 3D models, drawings, and outlines of Flipper Zero and blank external module PCB.
 
-Welcome to [Flipper Zero](https://flipperzero.one/)'s 3D models repo! Here you can find models of Flipper's body in stl, stp and pdf formats for using in modules development, cases designs or just for fun. 
+These files might help you develop your own external module.
 
-## ⚠️ !!! WARNING !!! ⚠️
+All the files are of **F7B9C6** hardware version, which is the **production version** and are safe to depend on.
 
-These 3D models <font color="red">will change</font>, please do not use them as a final reference for your modules design. We will announce the final models here. If you are making a hardware module, please create the [theme here on forum](https://forum.flipperzero.one/c/3d-party-modules/15). 
+![](/preview/readme-header.png)
 
-![](/img/models-readme-header.png)
+# Flipper Zero Body
 
-# Flipper Zero body drawing
+⚠️ 3D models of the body do not include most of the internals for commercial reasons. Outer parts should be enough for your needs.
 
-![](/img/drawing_example.png)
+[![](/preview/flipper-zero-drawing.png)](/flipper-zero/body-2d/flipper-zero-body-2d.pdf)
+*This is a preview. Click the image to open full drawing*
 
-# External Module drawings
+- [3D models (stl, stp, pdf)](/flipper-zero/body-3d)
+- [2D outlines and drawings (dwg, dxf, pdf)](/flipper-zero/body-2d)
 
-![](/img/external-module-drawing.png)
+# Blank External Module
+
+[![](/preview/external-module-drawing.png)](/external-module/external-module-drawing.pdf)
+*This is a preview. Click the image to open full drawing*
+
+- [PCB 3D models (stp, with and without headers)](/external-module/pcb-3d)
+- [PCB outlines (dwg, dxf, pdf)](/external-module/pcb-outline)
+- [Scheme of matching the external module and Flipper Zero (pdf)](/external-module/external-module-drawing.pdf)
+
+# Community and Support
+
+- [Documentation](https://docs.flipperzero.one) [[RU](https://docs.flipperzero.one/ru)] might help you if you have any questions regarding external modules
+- [Flipper Zero Forum](https://forum.flipperzero.one) connects you with thousands of users and developers, and has a [3rd-party modules section](https://forum.flipperzero.one/c/3rd-party-modules/15)
